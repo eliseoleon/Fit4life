@@ -157,6 +157,12 @@ background-color: greenyellow;
 }
 @media(max-width: 768px){
 
+    .container-details{
+        margin-bottom: 20px;
+       width: 70%;
+       margin-left: 15%;
+    }
+
     .type-container .details{
         width: 50%;
         }
