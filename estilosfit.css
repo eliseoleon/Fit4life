@@ -9,7 +9,7 @@
     display: flex;
 }
 .container-father{
-    border: 1px solid black;
+    
 }
 .icon-menu{
     background-color: lawngreen;
@@ -175,3 +175,76 @@ background-color: greenyellow;
         }
 
 }
+@media(max-width: 480px){
+    .subtitle{
+        font-size: 24px;
+        margin-bottom: 8px;
+        
+        }
+        .details{
+        font-size: 14px;
+        }
+
+    .title-three {
+        font-size: 15px;
+    }
+    .som-title{
+        text-align: center;
+        font-size: 24px;
+        margin-bottom: -13px;
+       
+    }
+    .som-details{
+     
+        font-size: 14px;
+       
+        
+    }
+    .choose-title{
+        font-size: 24px;
+        
+    }
+
+    .type-container img{
+        width: 30%;
+        height: 30%;
+        }
+
+
+
+    .type-container p{
+        font-size: 11px;
+        }
+
+    .button-type{
+        height: 50px;
+        width: 100px;
+        font-size: 12px;
+        background-color: lawngreen ;
+        color: black;
+        font-weight: bolder;
+        border-radius: 11px;
+     margin: 0px;
+    }
+
+
+    .social p{
+        font-size: 14px;
+    }
+    .formulario label{
+        font-size: 14px;
+    }
+
+
+
+}
+@media(max-width: 320px){
+
+
+
+
+
+
+
+}
+
