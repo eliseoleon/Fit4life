@@ -156,6 +156,10 @@ background-color: greenyellow;
 
 }
 @media(max-width: 768px){
+    .subtitle{
+        margin: 0px;
+        
+        }
 
     .container-details{
         margin-bottom: 20px;
