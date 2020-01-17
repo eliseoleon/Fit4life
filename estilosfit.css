@@ -188,6 +188,12 @@ background-color: greenyellow;
 }
 @media(max-width: 480px){
 
+
+
+    .container-details{
+        width: 80%;
+        margin-left: 10%;
+    }
     
     .subtitle{
         font-size: 24px;
